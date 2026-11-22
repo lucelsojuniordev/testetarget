@@ -1,0 +1,22 @@
+{
+  "vendas": [
+    { "vendedor": "João Silva", "valor": 1200.50 },
+    { "vendedor": "João Lima", "valor": 950.75 },
+    { "vendedor": "João Lira", "valor": 1800.00 },
+    { "vendedor": "Maria Joaquina", "valor": 2100.40 },
+    { "vendedor": "Maria Souza", "valor": 1350.60 },
+    { "vendedor": "Maria Louza", "valor": 950.20 },
+    { "vendedor": "Maria Bouza", "valor": 1600.75 },
+    { "vendedor": "Maria Sonza", "valor": 1750.00 },
+    { "vendedor": "Maria Sonssa", "valor": 1450.90 },
+    { "vendedor": "Carlos Oliveira", "valor": 800.50 },
+    { "vendedor": "Carlos Mangeira", "valor": 1200.00 },
+    { "vendedor": "Carlos Ferreira", "valor": 1950.30 },
+    { "vendedor": "Carlos Pereira", "valor": 1750.80 },
+    { "vendedor": "Ana Maria", "valor": 1000.00 },
+    { "vendedor": "Ana Clara", "valor": 1100.50 },
+    { "vendedor": "Ana Roberta", "valor": 1250.75 },
+    { "vendedor": "Beta Lima", "valor": 1400.20 },
+    { "vendedor": "Carla Lima", "valor": 1550.90 }
+  ]
+}
